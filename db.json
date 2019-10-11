@@ -1,5 +1,5 @@
 {
 	"name": "testName",
 	"title": "testTitle",
-	"timeEntries": [010685, 020685, 030685]
+	"timeEntries": ["010685", "020685", "030685"]
 }
